@@ -40,7 +40,7 @@ function App() {
 					count is {count}
 				</button>
 				<p>
-					Edit <code>src/App.tsx</code> and save to test HMR
+					Edit <code>src/react-app/App.tsx</code> and save to test HMR
 				</p>
 			</div>
 			<div className="card">
@@ -55,7 +55,7 @@ function App() {
 					Name from API is: {name}
 				</button>
 				<p>
-					Edit <code>worker/index.ts</code> to change the name
+					Edit <code>src/worker/index.ts</code> to change the name
 				</p>
 			</div>
 			<p className="read-the-docs">Click on the logos to learn more</p>
